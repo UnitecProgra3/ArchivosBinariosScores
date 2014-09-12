@@ -1,0 +1,34 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+<<<<<<< HEAD
+=======
+# Precompiled Headers
+*.gch
+*.pch
+
+>>>>>>> a6250c04efbe0be4505c83fc55b1f7498e7f484a
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+<<<<<<< HEAD
+=======
+# Fortran module files
+*.mod
+
+>>>>>>> a6250c04efbe0be4505c83fc55b1f7498e7f484a
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app

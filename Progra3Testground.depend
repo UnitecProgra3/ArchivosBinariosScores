@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1410313459 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/Progra3Testground/main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<list>
+
+1407286239 /home/turupawn/Projects/Codeblocks/Clases/Progra3/Progra3Testground/Personaje.h
+	<iostream>
+
+1407286283 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/Progra3Testground/Personaje.cpp
+	"Personaje.h"
+
+1406856623 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/Progra3Testground/Guerrero.cpp
+	"Guerrero.h"
+
+1406856627 /home/turupawn/Projects/Codeblocks/Clases/Progra3/Progra3Testground/Guerrero.h
+	"Personaje.h"
+
+1406856898 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/Progra3Testground/Tanque.cpp
+	"Tanque.h"
+
+1406856873 /home/turupawn/Projects/Codeblocks/Clases/Progra3/Progra3Testground/Tanque.h
+	"Personaje.h"
+
+1406856934 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/Progra3Testground/Mago.cpp
+	"Mago.h"
+
+1406856907 /home/turupawn/Projects/Codeblocks/Clases/Progra3/Progra3Testground/Mago.h
+	"Personaje.h"
+
+1406770343 /home/turupawn/Projects/Codeblocks/Clases/Progra3/Progra3Testground/Mago.cpp
+	"Mago.h"
+
+1407287007 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/Progra3Testground/Arquero.cpp
+	"Arquero.h"
+
+1407286991 /home/turupawn/Projects/Codeblocks/Clases/Progra3/Progra3Testground/Arquero.h
+	"Personaje.h"
+
